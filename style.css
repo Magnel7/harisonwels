@@ -3,7 +3,7 @@ padding: 0;
 box-sizing: border-box;}
 #all-box{position: absolute;
 left: 180px;
-width: 1440px;
+width: 100%;
 }
 /* First-box */
 #first-box{position: absolute;
